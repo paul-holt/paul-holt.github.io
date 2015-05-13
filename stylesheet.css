@@ -1,0 +1,53 @@
+body{
+	font-family: "Times New Roman", Times, serif;
+}
+
+a{
+	color:gray;
+}
+
+.first-section {
+	width:650px;
+}
+
+.name-header h1{
+	text-align:center;
+	position:relative;
+}
+
+.major-section {
+	border-top: 1px solid #000000;
+	width:650px;
+}
+
+.major-section h2{
+	font-variant:small-caps;
+	position:relative;
+	top:-15px;
+}
+
+.contact-info{
+	padding-bottom: 10px;
+	padding-top:10px;	
+}
+
+.contact-info .phone-and-email{
+	text-align: right
+}
+
+.skill-list{
+	position:relative;
+	top:-15px;
+}
+
+.job{
+	position:relative;
+	left:25px;
+	top:-15px;
+}
+
+.school{
+	position:relative;
+	left:25px;
+	top:-15px;
+}
